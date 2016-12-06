@@ -1,8 +1,14 @@
-# [#B[r](/ep/search/?q=%23BTour&via=CJCut6qvqG0)e[t](/ep/search/?q=%23BreTour&via=CJCut6qvqG0)a[g](/ep/search/?q=%23BretaTour&via=CJCut6qvqG0)n[e](/ep/search/?q=%23BretagnTour&via=CJCut6qvqG0)L[a](/ep/search/?q=%23BretagneLTour&via=CJCut6qvqG0)bTour] Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives
+---
+title: Bretagne Lab Tour 2015
+description: Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives 
+image_url: https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444564371971_me%20blt%20concarneau.jpg
+---
+
+[#BretagneLabTour] Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.62368_1445087067368_BLT_carte_2.png)
 
-## 0- Objectif
+# 0- Objectif
 
 *   Faire un "tour" des lieux d'innovation ouverte en Bretagne du 5 au 18 octobre (sur le [Temps des communs](http://tempsdescommuns.org)) en co-construction avec les acteurs du territoire. 
 *   Aller à la rencontre de celles et ceux qui préfigurent cette région comme un territoire intelligent, socialement innovant, réconcilié avec la biosphère. 
@@ -347,7 +353,7 @@ Explore a permis de tester la dynamique du tour le 7/08 dans le cadre d'une [ré
 *   Atelier Low Tech
 *   Atelier biomatériaux
 
-- Sourcing de lenvironnent direct Explore et NDM sur Concarneau et carto des ressources
+- Sourcing de l'environnent direct Explore et NDM sur Concarneau et carto des ressources
 
 *   Visite de la station de biologie marine
 
@@ -357,7 +363,7 @@ Explore a permis de tester la dynamique du tour le 7/08 dans le cadre d'une [ré
 
 - Mise en partage des ressources créées ce jour
 
-## Licence dutilisation
+## Licence d'utilisation
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444998003182_cc-by-sa.png)
 
