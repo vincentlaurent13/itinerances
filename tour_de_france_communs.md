@@ -1,3 +1,10 @@
+---
+title: Tour de France dans les Communs
+description: 123 jours en itinérance de Laboratoire open source d'expériences libres et distribuées
+image_url: https://hackpad-attachments.s3.amazonaws.com/hackpad.com_SA2B7bDZcbV_p.266912_1461851308018_PANO_20160426_175800.jpg
+---
+
+
 # [[#LabOSe](https://hackpad.com/ep/search/?q=%23LabOSe&via=SA2B7bDZcbV)] Laboratoire open source d'expériences libres et distribuées
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_SA2B7bDZcbV_p.266912_1459110205043_newproject_1_original.jpg)
