@@ -1,7 +1,7 @@
 ---
 title: Tour de France dans les Communs
 description: 123 jours en itinérance de Laboratoire open source d'expériences libres et distribuées
-image_url: https://hackpad-attachments.s3.amazonaws.com/hackpad.com_SA2B7bDZcbV_p.266912_1461851308018_PANO_20160426_175800.jpg
+image_url: https://framapic.org/z27jnRnxgdZm/83aWI1l49cey.jpg
 ---
 
 
