@@ -1,3 +1,9 @@
+---
+title: CoVolution - Intro
+description: Une CoVolution est une aventure avec un point singulier d'origine, indivuel ou collectif, pour grandir coopérativement en volute et conctruire collaborativement des ressources dans les communs avec une transmission des savoir-faire en pair à pair
+image_url:
+---
+
 # Covolution
 
 **Expériences collaboratives d'enrichissment en intinérance** 
