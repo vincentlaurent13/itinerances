@@ -17,7 +17,7 @@ Une CoVolution est une aventure avec un point singulier d'origine, indivuel ou c
 * Les fiches outils et méthologies permettant ces réalisations et aventure
 * Les plans, codes, schémas des prototypes
 * Les explorations scientifiques, techniques ou pédagogiques
-* Une bibliothèque de ressources disponibles librement en ligne
+* [Une bibliothèque de ressources disponibles librement en ligne](http://www.multibao.org/#nomades/modus_nomades/blob/master/librairie.md)
 
 ## Licence
 
