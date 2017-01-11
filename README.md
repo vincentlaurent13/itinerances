@@ -1,6 +1,6 @@
 ---
-title: CoVolution 
-description: Une CoVolution est une aventure avec un point singulier d'origine, indivuel ou collectif, pour grandir coopérativement en volute et conctruire collaborativement des ressources dans les communs avec une transmission des savoir-faire en pair à pair
+title: Aventures de nomades
+description: Découvrez des aventures de nomades ou de semi-nomades, en itinérance au coeur de découvertes sociales comme scientifiques. Placez y la documentation de vos itinérances.
 image_url:
 ---
 
