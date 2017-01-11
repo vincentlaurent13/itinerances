@@ -27,4 +27,4 @@ MIT license ([voir détails](https://github.com/nomades/covolution/blob/master/L
 
 D'autres licences et d'autres droits peuvent s'appliquer à des codes, formules, documents, ressources, contenus disponibles à l'intérieur de ces dépôts.
 
-Pour toutes questions et renseignements: xcoadic@gmail.com
+Pour toutes questions et renseignements: xcoadic@protonmail.com
