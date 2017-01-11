@@ -1,6 +1,6 @@
 ---
-title: Aventures de nomades
-description: Découvrez des aventures de nomades ou de semi-nomades, en itinérance au coeur de découvertes sociales comme scientifiques. Placez y la documentation de vos itinérances.
+title: Carnets d'explorations
+description: Découvrez des aventures de nomades en itinérance au coeur de découvertes sociales comme scientifiques. Placez ici la documentation de vos itinérances.
 image_url:
 ---
 
